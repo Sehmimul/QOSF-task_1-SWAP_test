@@ -1,5 +1,6 @@
 # QOSF-task_1-SWAP_test
 
+# NOTE: The code may take some time to run as as I iterate a number of times while optimizing.
 ## In this project I answered the 3 questions below:
 
 The Swap test is a simple quantum circuit which, given two states, allows you to compute how much do they differ from each other.
