@@ -20,7 +20,7 @@ Is not. Perform a qubit by qubit SWAP test to reconstruct the state. This part o
 
 ### For Part 2, I managed to reproduce the parameters (alpha and theta) of the original state to an accuracy of 0.1 radians. I optimized the parameters of an unknown qubit to reproduce the parameters. I used the optimization method, dual annealing.
 
-### For part 3, I managed to reproduce the quantum state made of n qubits by loopiing through all the n qubits. I could use qubit-by-qubit SWAP test as the quantum state is a product state and thus, the n qubits are not entangled with any other qubit of the state. 
+### For part 3, I managed to reproduce the quantum state made of n qubits by looping through all the n qubits. I could use qubit-by-qubit SWAP test as the quantum state is a product state and thus, the n qubits are not entangled with any other qubit of the state. 
 
 # Other Information
 
