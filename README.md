@@ -14,7 +14,7 @@ Is a product state, while the state
 |b> = |00> + |11>
 Is not. Perform a qubit by qubit SWAP test to reconstruct the state. This part of the problem can be solved via a simple grid search.
 
-# End of questions
+# Description
 
 ## For part 1, I made a variational quantum circuit, by using parameters $\alpha$ and $\theta$ such that I can get any point in the Bloch Sphere
 
