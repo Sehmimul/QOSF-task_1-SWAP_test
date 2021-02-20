@@ -27,7 +27,7 @@ Is not. Perform a qubit by qubit SWAP test to reconstruct the state. This part o
 
 ### The code may take some time to run as as I iterate a number of times while optimizing. 
 
-# Referemces
+# References
 
 ### The following links provided me useful motivation while doing the project:
 ### [1] https://en.wikipedia.org/wiki/Swap_test
