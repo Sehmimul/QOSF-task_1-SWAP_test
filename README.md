@@ -28,6 +28,6 @@ Is not. Perform a qubit by qubit SWAP test to reconstruct the state. This part o
 
 # Referemces
 
-## The following links provided useful motivation for me while doing the project:
+## The following links provided me useful motivation while doing the project:
 ## [1] https://en.wikipedia.org/wiki/Swap_test
 ## [2] https://en.wikipedia.org/wiki/Spherical_coordinate_system
